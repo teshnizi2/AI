@@ -1,1 +1,1 @@
-My responses to AI course in Sharif University
+My solutions to assignments of the Artificial Intelligence (Sharif University of Technology)
